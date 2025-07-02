@@ -22,3 +22,5 @@ version:          11.1
 
 bookviewer:       https://dev.lindenstruth.org/book-viewer
 
+github:
+  url:            https://dev.lindenstruth.org/physics-book
